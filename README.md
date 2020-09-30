@@ -1,4 +1,5 @@
 # Django Copy
+an amazing project
 
 Django-Copy is a copy manager, developed to easyly input and assign copy data in the django templates.
 
